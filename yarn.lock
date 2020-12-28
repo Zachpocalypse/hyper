@@ -3278,10 +3278,10 @@ electron-rebuild@1.11.0:
     spawn-rx "^3.0.0"
     yargs "^14.2.0"
 
-electron@^9.1.2:
-  version "9.1.2"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-9.1.2.tgz#bfa26d6b192ea13abb6f1461371fd731a8358988"
-  integrity sha512-xEYadr3XqIqJ4ktBPo0lhzPdovv4jLCpiUUGc2M1frUhFhwqXokwhPaTUcE+zfu5+uf/ONDnQApwjzznBsRrgQ==
+electron@^11.1.1:
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-11.1.1.tgz#188f036f8282798398dca9513e9bb3b10213e3aa"
+  integrity sha512-tlbex3xosJgfileN6BAQRotevPRXB/wQIq48QeQ08tUJJrXwE72c8smsM/hbHx5eDgnbfJ2G3a60PmRjHU2NhA==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^12.0.12"
